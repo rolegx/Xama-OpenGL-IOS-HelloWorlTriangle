@@ -1,1 +1,0 @@
-# Xama-OpenGL-IOS-HelloWorlTriangle
